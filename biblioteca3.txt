@@ -1,0 +1,24 @@
+"TITULO","NOMBRE AUTOR","GENERO","NUMPAGINAS","ANIOPUBLICACION","PRECIO","EJ"
+"Principito","Antoine","fantasía",32,1943,500.0,3
+"La Guerra de los Mundos","H.G. Wells","Ciencia Ficción",511,2022,299.0,3
+"Veinte mil Leguas de Viaje Submarino","Julio Verne","Ciencia Ficción",326,2003,299.0,6
+"Viaje al centro de la tierra","Julio Verne","Ciencia Ficción",320,2001,240.0,2
+"Tempestades de Acero","Ernst Jünger","Memorias",464,2005,1490.0,1
+"The Amazing Spider-Man de David Michelin y Todd McFarlane","David Michelin, Todd McFarlane","Ciencia Ficción",856,2023,1669.0,5
+"Luna de Plutón","Dross","Ciencia Ficción",472,2019,150.0,3 
+"El Libro Negro","Dross","Terror",232,2019,348.0,4
+"Viaje al centro de la tierra","Julio Verne","Ciencia Ficción",576,1864,249.0,2
+"Camino de los Reyes","Brandon Sanderson","fantasía",1216,2010,1100.0,2
+"Calculo I,II, III","Stewart","Matemáticas",326,2012,1500.0,5
+"I Have no Mouth and I Must Scream","Harlan Ellison","Ciencia Ficción",23,1968,200.0,4
+"El Guardián entre el Centeno","JD SALINGER","Novela",220,1951,231.50,9
+"Metro 2033", "Dmitry Glukhovsky","Ciencia ficción",460,2005,299.99,8
+"Harry Potter y la Orden del Fénix","J.K Rowling","Fantasía",1040,2003,600.0,12
+"El Horror de Dunwich","H.P. LoveCraft","Ciencia Ficción",88,1929,300.0,7
+"El Señor de los Anillos","J.R.R. Tolkien","Fantasía",1178,1954,25.99,10
+"Cien años de soledad","Gabriel García Márquez","Realismo mágico",432,1967,19.99,8
+"Fundación","Isaac Asimov","Ciencia ficción",255,1951,14.50,5
+"Aion","Carl Jung","Ensayo-Psicología Analítica",512,1990,510.0,3
+"El diario de Ana Frank", "Ana Frank","autobiografía",215,1947,300.0,9
+"Orgullo y prejuicio","Jane Austen","Romance",569,1813,692.0,20
+"La Guerra de los tres Reinos","Luo GuanzHong","Histórica",1312,1615,1000.0,2
